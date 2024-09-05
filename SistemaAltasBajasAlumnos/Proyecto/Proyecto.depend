@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1719097666 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\cadena.c
+	"cadena.h"
+
+1719097666 c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\cadena.h
+	<stdio.h>
+	<stdlib.h>
+
+1719275312 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\empleado.c
+	"empleado.h"
+
+1719248460 c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\empleado.h
+	<stdlib.h>
+	<stdio.h>
+	"generico.h"
+
+1725566086 c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\generico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719272288 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\estudiante.c
+	"estudiante.h"
+
+1719272632 c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\estudiante.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generico.h"
+	"fecha.h"
+	"cadena.h"
+
+1719272412 c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\fecha.h
+	<stdio.h>
+	<time.h>
+
+1719271748 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\fecha.c
+	"fecha.h"
+
+1719284014 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\generico.c
+	"generico.h"
+
+1725566086 source:c:\users\matia\desktop\41464442_guliano_matias_tp\41464442_guliano_matias_tp\proyecto\main.c
+	"estudiante.h"
+	"empleado.h"
+	"fecha.h"
+	"cadena.h"
+	"generico.h"
+
+1719097666 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\cadena.c
+	"cadena.h"
+
+1719097666 c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\cadena.h
+	<stdio.h>
+	<stdlib.h>
+
+1719275312 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\empleado.c
+	"empleado.h"
+
+1719248460 c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\empleado.h
+	<stdlib.h>
+	<stdio.h>
+	"generico.h"
+
+1725566086 c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\generico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719272288 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\estudiante.c
+	"estudiante.h"
+
+1719272632 c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\estudiante.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generico.h"
+	"fecha.h"
+	"cadena.h"
+
+1719272412 c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\fecha.h
+	<stdio.h>
+	<time.h>
+
+1719271748 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\fecha.c
+	"fecha.h"
+
+1719284014 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\generico.c
+	"generico.h"
+
+1725566086 source:c:\users\matia\documents\proyectosenc\sistemaaltasbajasalumnos\proyecto\main.c
+	"estudiante.h"
+	"empleado.h"
+	"fecha.h"
+	"cadena.h"
+	"generico.h"
+
