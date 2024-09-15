@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1699760954 source:c:\users\matia\desktop\tp final\proyecto\funcionesalumno.c
+	"funcionesAlumno.h"
+
+1699810891 c:\users\matia\desktop\tp final\proyecto\funcionesalumno.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcionesFecha.h"
+	"funcionesValidacion.h"
+	"funcionesCadena.h"
+	"indice.h"
+	"Alumno.h"
+
+1699757878 c:\users\matia\desktop\tp final\proyecto\funcionesfecha.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1699758533 c:\users\matia\desktop\tp final\proyecto\funcionesvalidacion.h
+	<stdlib.h>
+	"funcionesFecha.h"
+	"funcionesCadena.h"
+	"Alumno.h"
+
+1725565738 c:\users\matia\desktop\tp final\proyecto\funcionescadena.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1699758511 c:\users\matia\desktop\tp final\proyecto\alumno.h
+
+1725565739 c:\users\matia\desktop\tp final\proyecto\indice.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"funcionesCadena.h"
+
+1699757948 source:c:\users\matia\desktop\tp final\proyecto\funcionesvalidacion.c
+	"funcionesValidacion.h"
+
+1725565556 source:c:\users\matia\desktop\tp final\proyecto\main.c
+	"funcionesAlumno.h"
+	"funcionesCadena.h"
+	"funcionesFecha.h"
+	"funcionesValidacion.h"
+	"indice.h"
+
+1725565738 source:c:\users\matia\desktop\tp final\proyecto\funcionescadena.c
+	"funcionesCadena.h"
+
+1725565739 source:c:\users\matia\desktop\tp final\proyecto\funcionesfecha.c
+	"funcionesFecha.h"
+
+1725565739 source:c:\users\matia\desktop\tp final\proyecto\indice.c
+	"indice.h"
+
