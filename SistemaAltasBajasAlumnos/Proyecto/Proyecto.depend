@@ -57,3 +57,61 @@
 1725565739 source:c:\users\matia\desktop\tp final\proyecto\indice.c
 	"indice.h"
 
+1735337894 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesalumno.c
+	"funcionesAlumno.h"
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesalumno.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcionesFecha.h"
+	"funcionesValidacion.h"
+	"funcionesCadena.h"
+	"indice.h"
+	"Alumno.h"
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesfecha.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesvalidacion.h
+	<stdlib.h>
+	"funcionesFecha.h"
+	"funcionesCadena.h"
+	"Alumno.h"
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionescadena.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\alumno.h
+
+1735337894 c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\indice.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"funcionesCadena.h"
+
+1735337894 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionescadena.c
+	"funcionesCadena.h"
+
+1735337894 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesfecha.c
+	"funcionesFecha.h"
+
+1735337894 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\funcionesvalidacion.c
+	"funcionesValidacion.h"
+
+1735337894 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\indice.c
+	"indice.h"
+
+1735339370 source:c:\users\matia\documents\github\proyectos-en-c\sistemaaltasbajasalumnos\proyecto\main.c
+	"funcionesAlumno.h"
+	"funcionesCadena.h"
+	"funcionesFecha.h"
+	"funcionesValidacion.h"
+	"indice.h"
+

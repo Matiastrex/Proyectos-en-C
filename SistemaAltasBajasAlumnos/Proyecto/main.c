@@ -8,11 +8,13 @@ int main()
 {
 //    char pathArch[TAM_PATH_ARCH]="Alumnos.txt";
 //    generarArchivoDePruebaAlumnosParte1(pathArch);
+    /// PARA USAR EL ARCHIVO: ../ArchivoDummyParaProcesarRegistros/Alumnos.txt
 
     procesarRegistros();
 
-//    char pathArch[TAM_PATH_ARCH]="Alumnos.dat";
-//    generarArchivoDePruebaAlumnosParte2(pathArch);
+//    char pathArch2[TAM_PATH_ARCH]="Alumnos.dat";
+//    generarArchivoDePruebaAlumnosParte2(pathArch2);
+    /// PARA USAR EL ARCHIVO: ../ArchivosDummyParaMenuOperaciones/Alumnos.dat
 
     menuOperaciones();
 
